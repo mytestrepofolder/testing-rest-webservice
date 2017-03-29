@@ -6,7 +6,7 @@ public class Example {
 		// add a new functional call here
 		getFibbonaci(15);
 	}
-	
+	// getting a fibonnachi 
 	public void getFibbonaci(int n){
 		if(n < 2)return 1;
 		return getFibbonaci(n1-1) + getFibbonaci(n1-2);
